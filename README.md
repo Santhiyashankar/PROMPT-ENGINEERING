@@ -7,7 +7,6 @@ Develop a comprehensive report for the following exercises:
 4.	Generative AI impact of scaling in LLMs.
 
 # Output
-
 #### 1.	Explain the foundational concepts of Generative AI. 
 ##### Output:
 Foundational Concepts of Generative AI
